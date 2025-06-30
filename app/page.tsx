@@ -40,7 +40,7 @@ export default function LuxuryLandscapingPage() {
       <main className="pt-16 container mx-auto px-4 md:px-6">
         {/* Hero - Asymmetrical Layout */}
         <section className="relative py-20 lg:py-32">
-          <div className="grid grid-cols-12 min-h-[90vh]">
+          <div className="grid grid-cols-12 min-h-[50vh]">
             {/* Left Column - Text */}
             <div className="col-span-7 flex flex-col justify-center px-6 lg:px-12 py-20">
               <div className="max-w-2xl">
